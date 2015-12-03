@@ -8,4 +8,4 @@ What is the millionth lexicographic permutation of the digits 0, 1, 2, 3, 4, 5, 
 
 =end
 
-puts [0,1,2,3,4,5,6,7,8,9].permutation(10).to_a[999999].to_s
+puts (0..9).to_a.permutation.to_a[999999].join
