@@ -1,2 +1,2 @@
 # ProjectEuler
-This repository hold my code for solving Project Euler problems.
+This repository holds my code for solving Project Euler problems.
